@@ -1,6 +1,6 @@
 # Rice Leaf Disease Detection Using CNN 
 
-For this project,  we are going to detect rice leaf disease by image and serve the result via messenger chatbot. We will also implement this to an independent Android APP.
+For this project,  we are going to detect rice leaf disease by image preprocessing followed by feeding it to a Convoluted Neural Network.
 
 
 ---
@@ -13,7 +13,7 @@ For this project,  we are going to detect rice leaf disease by image and serve t
 *   Loading Data
 *   Preparing Dataset
 *   Label Mapping using Json
-*   Data Preproocessing
+*   Data Preprocessing
 *   Model Building
-*   Trining
+*   Training
 *   Check
