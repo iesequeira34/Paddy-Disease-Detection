@@ -6,9 +6,7 @@ For this project,  we are going to detect rice leaf disease by image preprocessi
 ---
 
 
-### We have deviced the project into multiple steps
-
-
+### We have divided the project into multiple steps
 *   Importing Libraries
 *   Loading Data
 *   Preparing Dataset
